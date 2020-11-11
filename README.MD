@@ -1,7 +1,6 @@
-* Chú ý mọi thao tác đều thực hiện trên terminal
-
-# Env
-### Brew - Thư viện hỗ trợ của Mac
+* Terminal Codes
+# Environment
+### Brew - mac OS Library
 - http://osxdaily.com/2018/03/07/how-install-homebrew-mac-os/
 ### MongoDb - Database
 #### Install
@@ -11,7 +10,7 @@
 ### Nodejs 
 - https://tecadmin.net/install-node-js-npm-macos/
 
-# Hướng dẫn chạy
+# run instruction
 - git clone https://github.com/hongluu/stockx_data.git
 - cd stockx_data
 - npm install
